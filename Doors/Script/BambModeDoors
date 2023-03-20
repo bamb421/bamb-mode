@@ -17,7 +17,7 @@ Template.Loader({['WaitTime'] = 50,['DisableSeek'] = true,['DisableFigure'] = tr
 
 local Impostor = Spawner.createEntity({
     CustomName = "Impostor",
-    Model = "https://https://github.com/bamb421/bamb-mode/blob/main/Entities/Impostor.rbxm?raw=true", -- Your entity's model url here ("rbxassetid://1234567890" or GitHub raw url)
+    Model = "rbxassetid://12844533287", -- Your entity's model url here ("rbxassetid://12844533287" or GitHub raw url)
     Speed = 100,
     MoveDelay = 8,
     HeightOffset = 0,
