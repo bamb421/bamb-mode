@@ -41,7 +41,7 @@ local Impostor = Spawner.createEntity({
     },
     ResistCrucifix = false,
     BreakCrucifix = true,
-    DeathMessage = {"Custom", "death", "message", "goes", "here."},
+    DeathMessage = {"You Died to amongus", "literally just hide in a closet"},
     IsCuriousLight = false
 })
 
