@@ -1,8 +1,8 @@
 local Template = loadstring(game:HttpGet("https://github.com/MuhXd/DoorSuff/blob/main/HardcoreTempate/TemplateCode.lua?raw=true"))()
 -- Messages in a Table And Launches The Main Loader
-Template.StartCode({'Loaded destroyer mode!'})
-wait(0.5)
-Template.StartCode({'Script by hakugamer'})
+Template.StartCode({'script loaded'})
+wait(0.6)
+Template.StartCode({'made by bamb#2959'})
 --[[
 WaitTime Is How Long it Takes to Spawn
 DisableSeek Makes it Not Appear In Seek and DisableFigure Does The same Thing Just for Figure
